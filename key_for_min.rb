@@ -12,5 +12,5 @@ def key_for_min_value(name_hash)
     smallestKey = key
   end
 end
-  return smallestKey
+  smallestKey
 end
